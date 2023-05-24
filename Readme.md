@@ -19,3 +19,5 @@ Na koniec wykorzystujemy model oparty na Transformerach, BERT, do analizy sentym
 Upewnij się, że zainstalowane są niezbędne zależności, w tym Python, TensorFlow, Keras, sklearn, pandas, re i transformers.
 
 Aby uruchomić projekt umieść plik nlp_s18718_s15441 oraz Book3.csv w googlecloab, następnie po prostu uruchom skrypt. Końcowym wynikiem będzie dokładność, macierz pomyłek i wyniki ROC-AUC dla wytrenowanych modeli.
+
+Authors: s15441, s18718
